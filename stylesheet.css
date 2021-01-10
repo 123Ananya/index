@@ -1,0 +1,74 @@
+body{
+font-family:"Avenir Next";
+}
+.header-list li {
+list-style:none;
+}
+.header{
+background-color:#26d0c9;
+color:#fff;
+height:90px;
+}
+.header-logo{
+float:left;
+font-size:36px;
+padding: 20px 40px;
+}
+.header-list li{
+float:left;
+padding: 33px 20px;
+}
+.main{
+padding: 100px 80px;
+}
+.copy-container{
+background-image:url("http://down.699pic.com/photo/50073/8260.jpg?_upt=2797830a1610258503&_upd=Lovepik_com-500738260-big-balcony-background-of-city-building.jpg");
+background-size:cover;
+height:700px;
+}
+.copy-container h1{
+font-size:140px;
+color:#ffffff;
+}
+.copy-container h2{
+font-size:60px;
+color:#ffffff;
+}
+.section-title{
+border-bottom:2px solid #dee7ec;
+font-size:28px;
+padding-bottom:15px;
+margin-bottom:50px;
+}
+.contact-form p{
+margin-top:30px;
+font-size:24px;
+}
+.footer{
+background-image:url("https://thumbs.dreamstime.com/b/lush-green-grass-texture-wallpapers-pattern-wallpaper-36642126.jpg");
+background-size:cover;
+color:#fff;
+height:120px;
+padding:40px;
+}
+.footer span{
+color:#ff4a4a;
+font-size:80px;
+}
+.contact-form{
+background-color:light blue;
+}
+.header-right{
+float:right;
+background-color:rgba(255,255,255,0.3);
+}
+.header-right:hover{
+background-color:rgba(255,255,255,0.5);
+}
+.header-right a{
+line-height:65px;
+padding-right:25px;
+padding-left:25px;
+color:white;
+display:block;
+}
